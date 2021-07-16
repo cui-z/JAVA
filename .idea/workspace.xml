@@ -182,7 +182,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="751" />
     <option name="y" value="2" />
     <option name="width" value="1064" />
@@ -403,15 +403,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626252928297</updated>
-      <workItem from="1626252934297" duration="44834000" />
+      <workItem from="1626252934297" duration="45175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44834000" />
+    <option name="totallyTimeSpent" value="45175000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="751" y="2" width="1064" height="990" extended-state="0" />
+    <frame x="751" y="2" width="1064" height="990" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -902,7 +902,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
